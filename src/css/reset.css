@@ -1,0 +1,9 @@
+* a {
+    text-decoration: none;
+    color: #000000;
+    list-style: none;
+}
+
+li::marker {
+    color: transparent;
+}
