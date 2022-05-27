@@ -20,12 +20,16 @@ Inspite not being chosen for the position, I was really proud of my progress bec
   - CSS
   - Bootstrap
   - JavaScript
-<BR>
+
+https://user-images.githubusercontent.com/92765969/170738026-533ba40e-c064-47a7-8057-19c25de25677.mp4
+
 <p align="center">
-![gif-xyz](https://user-images.githubusercontent.com/92765969/170721946-c32d91a8-016f-445d-b60a-15e92ea0eea5.gif)
-<BR>
-<a href="https://user-images.githubusercontent.com/92765969/170722990-c670c2db-c940-4168-9511-3883541ae3d9.mp4"></a>
-<BR>
+  <kbd>
+    <img width="250" style="border-radius: 5px" height="400" src="https://user-images.githubusercontent.com/92765969/170737928-02ab5c2d-0ca1-4574-a2e5-dd4878de774f.gif" alt="gifxyz">
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;  
+</p>
+
 <h2 align="center"> Thanks for reading (: </h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/aline-delavy-villanova-578085109/">Aline Delavy Villanova
